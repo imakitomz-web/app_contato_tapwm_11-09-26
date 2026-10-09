@@ -92,7 +92,7 @@ export default function ListaContatos() {
 
               <Image 
 
-                source={{ uri: `https://api-contatos-auth-04-09-25.onrender.com/uploads${item.foto}` }} 
+                source={{ uri: `https://api-contatos-auth-04-09-25.onrender.com/uploads/${item.foto}` }} 
 
                 style={{ width: 100, height: 100, marginVertical: 6 }} 
 
